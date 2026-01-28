@@ -1,19 +1,25 @@
-Me-API Frontend
+git branch -M main
 
-Quick start:
+This repository contains my personal portfolio website, showcasing my projects, skills, and contact information.
 
-```bash
-cd client
-npm install
-npm run dev
-```
+## About
 
-The app expects `VITE_API_BASE_URL` in `.env.local` (defaults to http://localhost:5000/api).
+This portfolio is built with HTML, CSS, and JavaScript and deployed using GitHub Pages.
 
-To use a local mock backend instead of your real API (useful while server is down), set in `.env.local`:
+## Live Demo
 
-```
-VITE_API_MOCK=true
-```
+You can view the live portfolio here:  
+https://jahnaviyelishala1.github.io/my-portfolio/
 
-With the mock enabled the UI will respond without the backend and PATCH requests will update in-memory data.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Contact
+
+Feel free to reach out to me via [231210128@nitdelhi.ac.in] or connect on [LinkedIn](https://www.linkedin.com/in/jahnavi-yelishala-3121b9325/).
+
+
